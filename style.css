@@ -7,10 +7,30 @@ body {
   width: 200px;
   border-radius: 20%;
   border: 10px solid black;
-  margin: 3rem;
+  margin: 2.5rem;
 }
 
 .btn-container {
   display: flex;
   justify-content: center;
+}
+
+.red {
+  background-color: rgb(200, 93, 93);
+}
+
+.green {
+  background-color: rgb(125, 195, 125);
+}
+
+.yellow {
+  background-color: rgb(180, 180, 111);
+}
+
+.purple {
+  background-color: rgb(188, 114, 188);
+}
+
+.flash {
+  background-color: white;
 }
